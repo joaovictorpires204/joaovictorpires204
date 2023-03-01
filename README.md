@@ -6,10 +6,10 @@ Eu sou um desenvolvedor full-stack em formação na Escola de Programação - Ar
 ## 🔗 Links
 
 [![LinkedIn]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorpiresdeandrade/)
-
+  
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorpires204&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Tecnologias que eu uso no dia a dia 
 
